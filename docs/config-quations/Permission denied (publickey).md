@@ -8,7 +8,8 @@ and the repository exists.
 解决：
 1、在.ssh文件夹下创建config文件，没用后缀名
 2、往config文件里配置
-```
+
+```bash
 # GERRIT
 Host gerrit仓库域名
   HostName errit仓库域名
@@ -19,4 +20,5 @@ Host gerrit仓库域名
   Port 29418
 
 ```
+
 ![效果图](1_Permission denied (publickey).png)
