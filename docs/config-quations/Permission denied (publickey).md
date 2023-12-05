@@ -19,3 +19,4 @@ Host gerrit仓库域名
   Port 29418
 
 ```
+![效果图](1_Permission denied (publickey).png)
