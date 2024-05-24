@@ -1,5 +1,5 @@
 现状：
-![pastedImage (1)](https://github.com/hututuhu/blog/assets/37233828/ab971fa8-925c-420f-b105-13d7a5fbb2ae)
+<img width="650" alt="image" src="https://github.com/hututuhu/blog/assets/37233828/9a289e40-dd51-4613-af40-8496915f0c7d">
 
 
 解决方案：
