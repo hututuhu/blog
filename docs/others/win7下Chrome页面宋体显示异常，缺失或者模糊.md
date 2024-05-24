@@ -1,5 +1,6 @@
 现状：
-![图片](https://github.com/hututuhu/blog/blob/main/docs/others/pastedImage%20(1).jpg)
+![pastedImage (1)](https://github.com/hututuhu/blog/assets/37233828/ab971fa8-925c-420f-b105-13d7a5fbb2ae)
+
 
 解决方案：
 
